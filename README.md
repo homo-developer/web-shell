@@ -15,7 +15,7 @@ A lightweight, dark-themed PHP-based file manager shell with capabilities for vi
 
 ## Installation
 
-1. Upload `anyname.php` to your server or localhost directory.
+1. Upload `shell.php` to your server or localhost directory.
 2. Open the file in your browser.
 
 ## Usage
